@@ -4,7 +4,7 @@
 - 🔭 Cursando Ánalise e Desenvolvimento de sistemas
 - 🌱 Estudando HTML, CSS & JavaScript
 - 🤔 Buscando oportunidade em Estágios para me desenvolver como profissional
-- 😄 Pronomes: Ele/dele
+
 
 <div>
   
